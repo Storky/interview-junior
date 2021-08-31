@@ -54,6 +54,7 @@ ___
 8. call apply bind
 9. OOP and Func approaches
 10. Closure and Decorator
+11. Types comparison
 
 ### 3 ТС
 ___
@@ -82,6 +83,7 @@ ___
 5. Portal
 6. Custom hooks
 7. HOC and Render props templates
+8. Virtual DOM
 
 ### 5 Редакс и Миддлвар
 ___
@@ -109,6 +111,7 @@ ___
     
 ### 7 Вебпак
 ___
+[WebPack Answers](./webpack/webpack.md)
 1. What is webpack
 2. What is Bundle
 3. HMR
@@ -118,6 +121,7 @@ ___
 
 ### 8 Git
 ___
+[Git Answers](./git/git.md)
 1. Git common commands
 2. Cherry Pick
 3. Fetch merge flow
