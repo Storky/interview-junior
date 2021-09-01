@@ -34,10 +34,10 @@ ___
     1. 3 + 1 ways to add event on btn click
     2. Stopping event
     3. Event delegation
-3. This and function calling
-4. Closures
-5. Arrow functions
-6. Event Loop and Microtasks
+3. [This and function calling](./js/3.md)
+4. [Closures and Decorators](./js/4.md)
+5. [Arrow functions](./js/5.md)
+6. [Event Loop and Microtasks](./js/6.md) -describe order of execution async tasks and micro tasks
 7. ES6 features
     1. Let Const
     2. Arrow functions
@@ -51,10 +51,9 @@ ___
     10. modules
     11. promises
     12. Func generator
-8. call apply bind
+8. [call apply bind](./js/8.md)
 9. OOP and Func approaches
-10. Closure and Decorator
-11. Types comparison
+10. Variable types
 
 ### 3 ТС
 ___
