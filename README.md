@@ -37,7 +37,7 @@ ___
 3. [This and function calling](./js/3.md)
 4. [Closures and Decorators](./js/4.md)
 5. [Arrow functions](./js/5.md)
-6. [Event Loop and Microtasks](./js/6.md) -describe order of execution async tasks and micro tasks
+6. [Event Loop and Microtasks](./js/6.md) - describe order of execution async tasks and micro tasks
 7. ES6 features
     1. Let Const
     2. Arrow functions
@@ -52,10 +52,10 @@ ___
     11. promises
     12. Func generator
 8. [call apply bind](./js/8.md)
-9. OOP and Func approaches
-10. Variable types
+9. [OOP and Func approaches](./js/9.md)
+10. [Variable types](./js/10.md)
 
-### 3 ТС
+### [3 ТС](./ts/ts.md)
 ___
 1. Generic
 2. Types
@@ -63,7 +63,7 @@ ___
 
 ### 4 Реакт
 ___
-1. Basics
+1. [Basics](./js/1.md)
     1. What is and what for
     2. keys
     3. Comparison with Angular
@@ -83,8 +83,9 @@ ___
 6. Custom hooks
 7. HOC and Render props templates
 8. Virtual DOM
+[link 4-8](./js/4-8.md)
 
-### 5 Редакс и Миддлвар
+### [5 Редакс и Миддлвар](./redux/redux.md)
 ___
 1. What is Redux
 2. Main Redux entities.
@@ -94,7 +95,7 @@ ___
 6. Redux optimisation (reselect)
 7. Where to place async logic
 
-### 6 HTTP
+### [6 HTTP](./http/http.md)
 ___
 1. WTF is Rest
 2. What is gRPC
@@ -108,9 +109,8 @@ ___
     2. How to delete
     3. isSecure and httpOnly params
     
-### 7 Вебпак
+### [7 Вебпак](./webpack/webpack.md)
 ___
-[WebPack Answers](./webpack/webpack.md)
 1. What is webpack
 2. What is Bundle
 3. HMR
@@ -118,9 +118,8 @@ ___
 5. Difference to Gulp and Grunt
 6. Adding scripts
 
-### 8 Git
+### [8 Git](./git/git.md)
 ___
-[Git Answers](./git/git.md)
 1. Git common commands
 2. Cherry Pick
 3. Fetch merge flow
