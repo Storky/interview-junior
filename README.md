@@ -67,13 +67,13 @@ ___
     1. What is and what for
     2. keys
     3. Comparison with Angular
-2. Class components
+2. [Class components](./js/2.md)
     1. Life cycle
     2. cycle methods
     3. refs
     4. state management
     5. optimisation
-3. Func components
+3. [Func components](./js/3.md)
     1. Cycle hooks
     2. refs
     3. state hooks and useReducer
@@ -82,8 +82,7 @@ ___
 5. Portal
 6. Custom hooks
 7. HOC and Render props templates
-8. Virtual DOM
-[link 4-8](./js/4-8.md)
+8. Virtual DOM - [link 4-8](./js/4-8.md)
 
 ### [5 Редакс и Миддлвар](./redux/redux.md)
 ___
